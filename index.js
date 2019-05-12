@@ -14,6 +14,6 @@ function logShout(string){
   return string.toUpperCase();
 }
 
-function logWhisper(string){
+function logWhisper(string) {
   console.log(string.toLowerCase)
 }
