@@ -19,5 +19,5 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  
+  if (string === string.tolo)
 }
