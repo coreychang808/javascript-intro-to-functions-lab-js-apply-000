@@ -14,6 +14,3 @@ function logShout(string){
   return string.toUpperCase();
 }
 
-var shout = logShout('should be uppercase');
-
-console.log(shout)
